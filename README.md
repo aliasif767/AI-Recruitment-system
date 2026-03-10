@@ -1,4 +1,4 @@
-# 🎯 TalentScope AI: Intelligent Recruitment Pipeline
+# 🎯 Intelligent Recruitment Pipeline
 
 AI Recruitment system is a sophisticated, agentic recruitment tool designed to bridge the gap between thousands of resumes and the perfect technical hire. By combining LLM-powered resume screening with real-world GitHub data auditing, it provides a 360-degree view of a candidate's technical prowess.
 
@@ -38,3 +38,4 @@ AI Recruitment system is a sophisticated, agentic recruitment tool designed to b
    ```bash
    git clone https://github.com/aliasif767/AI-Recruitment-system.git
    cd AI Recruitor
+   python -m streamlit run app.py
