@@ -1,0 +1,12 @@
+langchain-groq
+langgraph
+langchain
+pydantic
+python-dotenv
+PyGithub
+PyPDF2
+python-docx
+streamlit
+pandas
+plotly
+pdfminer.six

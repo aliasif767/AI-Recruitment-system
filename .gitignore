@@ -1,0 +1,4 @@
+.env
+.recruiter_cache.json
+__pycache__/
+venv/
